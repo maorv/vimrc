@@ -1,0 +1,6 @@
+Plugin 'kien/ctrlp.vim'
+Plugin 'tpope/vim-fugitive'
+Plugin 'bling/vim-airline'
+Plugin 'mileszs/ack.vim'
+Plugin 'altercation/vim-colors-solarized'
+"Plugin 'scrooloose/syntastic.git'

@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/maor/work2/netlib/py/seeds'
+let g:netrw_dirhist_2='/home/maor/work2/netlib/py/tests/lib'
+let g:netrw_dirhist_3='/home/maor/work2/netlib/py/infra'
+let g:netrw_dirhist_4='/home/maor/work2/netlib/cpp/statistics'
+let g:netrw_dirhist_5='/home/maor/work2/netlib'
